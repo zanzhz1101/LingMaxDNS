@@ -1,3 +1,6 @@
+```shell
+源自lingmax大佬 https://www.right.com.cn/forum/thread-8137820-1-1.html
+```
 软件固定UDP  DNS端口8287  作者by:LingMax  开发不易 请善用
 
 找到自己路由cpu支持的程序  (静态编译不依赖任何运行库)
