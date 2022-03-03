@@ -10,4 +10,4 @@ RUN set -ex \
 	&& chmod +x /etc/local.d/lingmax.start \
 	&& rc-update add local
 	
-EXPOSE 8287
+EXPOSE 8287/udp
