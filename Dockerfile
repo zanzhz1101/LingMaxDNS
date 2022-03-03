@@ -1,7 +1,6 @@
 FROM alpine:latest
 LABEL maintainer "LingMaxDNS <LingMax>"
 
-WORKDIR /root
 RUN set -ex \
 	&& mkdir /etc/loacl.d \
 	&& apk add openrc \
