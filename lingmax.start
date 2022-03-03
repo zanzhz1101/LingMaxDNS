@@ -1,1 +1,1 @@
-nohup ./root/LingMaxDns_linux_amd64 &
+nohup ./LingMaxDns_linux_amd64 &
