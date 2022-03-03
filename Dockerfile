@@ -2,8 +2,7 @@ FROM alpine:latest
 LABEL maintainer "LingMaxDNS <LingMax>"
 
 WORKDIR /root
-COPY LingMaxDns_linux_amd64 /root/LingMaxDns_linux_amd64
-COPY lingmax.start /etc/local.d/lingmax.start
+COPY LingMaxDns_linux_amd64 /root/LingMaxDns_linux_amd64 && lingmax.start /etc/local.d/lingmax.start
 
 RUN set -ex \
 	&& chmod +x /root/LingMaxDns_linux_amd64 \
