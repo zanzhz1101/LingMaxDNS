@@ -33,3 +33,10 @@ ssh执行
 ```shell
 ln -s /etc/LingMaxDns_linux_amd64 /etc/rc.d/S999LingMaxDns
 ```
+
+```
+2022-2-17  发布第一个版本
+2022-5-21  增加守护进程避免闪退,支持HTTPS代理,优化加速算法提升
+下载地址https://wwi.lanzouj.com/b011aogdg
+密码degz
+```
