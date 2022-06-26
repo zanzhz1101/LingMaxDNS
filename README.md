@@ -40,3 +40,10 @@ ln -s /etc/LingMaxDns_linux_amd64 /etc/rc.d/S999LingMaxDns
 下载地址https://wwi.lanzouj.com/b011aogdg
 密码degz
 ```
+```
+补充内容 (2022-6-25 21:24):
+不要用 -D
+不要用 -D
+不要用 -D
+用了 一小时会自动结束进程
+```
